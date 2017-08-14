@@ -6084,9 +6084,9 @@ react-proxy@^3.0.0-alpha.0:
   dependencies:
     lodash "^4.6.1"
 
-"react-resizable-box@https://github.com/pionl/react-resizable-box#6e4776c":
+"react-resizable-box@https://github.com/pionl/react-resizable-box#aab88f5":
   version "2.0.5"
-  resolved "https://github.com/pionl/react-resizable-box#6e4776c"
+  resolved "https://github.com/pionl/react-resizable-box#aab88f5"
   dependencies:
     lodash.isequal "^4.5.0"
 

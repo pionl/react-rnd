@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "react-draggable": "^2.2.3",
-    "react-resizable-box": "https://github.com/pionl/react-resizable-box#6e4776c"
+    "react-resizable-box": "https://github.com/pionl/react-resizable-box#aab88f5"
   },
   "files": [
     "lib"
